@@ -1,5 +1,3 @@
-from urllib import response
-from pytest import param
 import requests
 
 class SwapiApiConsumer:
