@@ -1,10 +1,13 @@
 astroid==2.11.2
 attrs==21.4.0
+certifi==2021.10.8
 cfgv==3.3.1
+charset-normalizer==2.0.12
 dill==0.3.4
 distlib==0.3.4
 filelock==3.6.0
 identify==2.4.12
+idna==3.3
 iniconfig==1.1.1
 isort==5.10.1
 lazy-object-proxy==1.7.1
@@ -19,8 +22,11 @@ pylint==2.13.5
 pyparsing==3.0.7
 pytest==7.1.1
 PyYAML==6.0
+requests==2.27.1
+requests-mock==1.9.3
 six==1.16.0
 toml==0.10.2
 tomli==2.0.1
+urllib3==1.26.9
 virtualenv==20.14.0
 wrapt==1.14.0
